@@ -30,7 +30,7 @@ const PostHeader: React.FC<Props> = ({ data }) => {
                   height={24}
                 />
                 <div className="">
-                  {`${data.author[0].last_name}${data.author[0].first_name}`}
+                  {"은종"}
                 </div>
               </div>
             )}
